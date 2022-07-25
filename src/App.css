@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+
+#navbar , #news , .card{
+    transition: 0.1s linear;
+}
+
+#navbar button , #navbar a{
+    transition: 0.2s;
+}
+
+#navbar button:hover , #navbar a:hover{
+    cursor: pointer;
+    color: rgb(250, 84, 55);
+}
+@tailwind utilities;
