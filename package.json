@@ -9,12 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.4"
+    "@clerk/nextjs": "^5.2.4",
+    "@headlessui/react": "latest",
+    "@heroicons/react": "latest",
+    "@prisma/client": "latest",
+    "axios": "latest",
+    "next": "latest",
+    "prisma": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-infinite-scroller": "latest"
   },
   "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1"
+    "daisyui": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest"
   }
 }
