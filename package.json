@@ -9,20 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^5.2.4",
-    "@google/generative-ai": "^0.16.0",
+    "@clerk/nextjs": "latest",
+    "@google/generative-ai": "latest",
     "@headlessui/react": "latest",
     "@heroicons/react": "latest",
     "@prisma/client": "latest",
     "axios": "latest",
     "next": "latest",
-    "openai": "^4.55.4",
+    "openai": "latest",
     "prisma": "latest",
     "react": "latest",
     "react-dom": "latest",
     "react-infinite-scroller": "latest",
-    "react-toastify": "^10.0.5",
-    "zod": "^3.23.8"
+    "react-toastify": "latest",
   },
   "devDependencies": {
     "daisyui": "latest",
