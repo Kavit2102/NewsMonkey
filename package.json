@@ -1,0 +1,32 @@
+{
+  "name": "news-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^5.2.4",
+    "@google/generative-ai": "^0.16.0",
+    "@headlessui/react": "latest",
+    "@heroicons/react": "latest",
+    "@prisma/client": "latest",
+    "axios": "latest",
+    "next": "latest",
+    "openai": "^4.55.4",
+    "prisma": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-infinite-scroller": "latest",
+    "react-toastify": "^10.0.5",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "daisyui": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest"
+  }
+}
