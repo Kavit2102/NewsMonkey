@@ -21,7 +21,7 @@
     "react": "latest",
     "react-dom": "latest",
     "react-infinite-scroller": "latest",
-    "react-toastify": "latest",
+    "react-toastify": "latest"
   },
   "devDependencies": {
     "daisyui": "latest",
